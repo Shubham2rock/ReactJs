@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+#here is the link to the app https://imdb-like-clone.netlify.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
