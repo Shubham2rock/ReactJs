@@ -1,4 +1,4 @@
-# Twitter_clone_using_ReactJs
+# ReactJs based projects
 
 # here is the link to the twitter clone https://final-twitter-clone.netlify.app/
 
